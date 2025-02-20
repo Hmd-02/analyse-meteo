@@ -1,0 +1,9 @@
+matplotlib==3.10.0
+pandas==2.2.3
+plotly==6.0.0
+pyspark==3.5.4
+seaborn==0.13.2
+setuptools==75.8.0
+streamlit==1.42.1
+cdsapi
+folium
